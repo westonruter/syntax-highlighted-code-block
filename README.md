@@ -5,12 +5,10 @@
 Extending the Code block with syntax highlighting rendered on the server, thus being AMP-compatible and having faster frontend performance.
 
 **Contributors:** [westonruter](https://profiles.wordpress.org/westonruter), [allejo](https://profiles.wordpress.org/allejo)  
-**Tags:** [block](https://wordpress.org/plugins/tags/block), [code](https://wordpress.org/plugins/tags/code), [code syntax](https://wordpress.org/plugins/tags/code-syntax), [syntax highlight](https://wordpress.org/plugins/tags/syntax-highlight), [code highlighting](https://wordpress.org/plugins/tags/code-highlighting)  
-**Requires at least:** 6.4  
-**Tested up to:** 6.6  
-**Stable tag:** 1.5.0  
+**Tags:** [block](https://wordpress.org/plugins/tags/block), [code](https://wordpress.org/plugins/tags/code), [code syntax](https://wordpress.org/plugins/tags/code-syntax), [syntax highlight](https://wordpress.org/plugins/tags/syntax-highlight), [code highlighting](https://wordpress.org/plugins/tags/code-highlighting)
+**Tested up to:** 6.7  
+**Stable tag:** 1.5.1  
 **License:** [GPLv2 or later](http://www.gnu.org/licenses/gpl-2.0.html)  
-**Requires PHP:** 7.4
 
 [![Continuous Integration](https://github.com/westonruter/syntax-highlighting-code-block/actions/workflows/ci.yaml/badge.svg)](https://github.com/westonruter/syntax-highlighting-code-block/actions/workflows/ci.yaml)
 [![Built with Grunt](https://gruntjs.com/cdn/builtwith.svg)](http://gruntjs.com)

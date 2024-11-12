@@ -1,22 +1,23 @@
 <?php
 /**
- * Plugin Name:  Syntax-highlighting Code Block (with Server-side Rendering)
- * Plugin URI:   https://github.com/westonruter/syntax-highlighting-code-block
- * Description:  Extending the Code block with syntax highlighting rendered on the server, thus being AMP-compatible and having faster frontend performance.
- * Version:      1.5.1-alpha
- * Author:       Weston Ruter
- * Author URI:   https://weston.ruter.net/
- * License:      GPL2
- * License URI:  https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain:  syntax-highlighting-code-block
- * Requires PHP: 7.4
+ * Plugin Name:       Syntax-highlighting Code Block (with Server-side Rendering)
+ * Plugin URI:        https://github.com/westonruter/syntax-highlighting-code-block
+ * Description:       Extending the Code block with syntax highlighting rendered on the server, thus being AMP-compatible and having faster frontend performance.
+ * Requires at least: 6.6
+ * Requires PHP:      7.4
+ * Version:           1.5.1
+ * Author:            Weston Ruter
+ * Author URI:        https://weston.ruter.net/
+ * License:           GPL2
+ * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain:       syntax-highlighting-code-block
  *
  * @package Syntax_Highlighting_Code_Block
  */
 
 namespace Syntax_Highlighting_Code_Block;
 
-const PLUGIN_VERSION = '1.5.1-alpha';
+const PLUGIN_VERSION = '1.5.1';
 
 const PLUGIN_MAIN_FILE = __FILE__;
 
