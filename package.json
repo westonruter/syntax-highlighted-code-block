@@ -43,7 +43,7 @@
     "update": "bin/update-highlight-libs.sh",
     "build": "npm-run-all build:*",
     "build:transform-readme": "php ./bin/transform-readme.php",
-    "build:clean": "if [ -e dist ]; then rm -r dist; fi; if [ -e build ]; then rm -r build; fi",
+    "build:clean": "if [ -e dist ]; then rm -r dist; fi; if [ -e build ]; then rm -r build; fi; if [ -e syntax-highlighting-code-block ]; then rm -r syntax-highlighting-code-block; fi",
     "build:js": "wp-scripts build src/index.js src/customize-controls.js --output-path=build",
     "build:dist": "bash ./bin/build-dist.sh",
     "build:zip": "if [ -e syntax-highlighting-code-block.zip ]; then rm syntax-highlighting-code-block.zip; fi; vendor/bin/wp dist-archive --plugin-dirname=syntax-highlighting-code-block dist syntax-highlighting-code-block.zip && echo \"ZIP of build: $(pwd)/syntax-highlighting-code-block.zip\"",
