@@ -5,7 +5,7 @@
  * Description:       Extending the Code block with syntax highlighting rendered on the server, thus being AMP-compatible and having faster frontend performance.
  * Requires at least: 6.6
  * Requires PHP:      7.4
- * Version:           1.5.1
+ * Version:           1.5.2-alpha
  * Author:            Weston Ruter
  * Author URI:        https://weston.ruter.net/
  * License:           GPL2
@@ -17,7 +17,7 @@
 
 namespace Syntax_Highlighting_Code_Block;
 
-const PLUGIN_VERSION = '1.5.1';
+const PLUGIN_VERSION = '1.5.2-alpha';
 
 const PLUGIN_MAIN_FILE = __FILE__;
 
