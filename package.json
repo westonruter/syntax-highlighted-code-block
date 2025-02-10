@@ -22,7 +22,7 @@
     "@wordpress/block-library": "9.17.0",
     "@wordpress/blocks": "14.6.0",
     "@wordpress/components": "29.3.0",
-    "@wordpress/editor": "14.17.0",
+    "@wordpress/editor": "14.17.1",
     "@wordpress/element": "6.17.0",
     "@wordpress/env": "10.17.0",
     "@wordpress/eslint-plugin": "22.3.0",
